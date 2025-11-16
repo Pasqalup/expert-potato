@@ -14,7 +14,7 @@ h1.Monsterrat-500 {
 }
 img{
   max-width: 100%;
-  height: 400px;
+  height: 30vw;
   overflow:hidden;
   object-fit: cover;
 }
